@@ -10,21 +10,21 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@codemirror/autocomplete": "^6.17.0",
-    "@codemirror/commands": "^6.6.0",
-    "@codemirror/language": "^6.10.2",
-    "@codemirror/lint": "^6.8.1",
-    "@codemirror/search": "^6.5.6",
-    "@codemirror/state": "^6.4.1",
-    "@codemirror/view": "^6.28.5",
-    "@lezer/common": "^1.2.1",
-    "@prometheus-io/codemirror-promql": "^0.53.1"
+    "@codemirror/autocomplete": "^6.18.4",
+    "@codemirror/commands": "^6.7.1",
+    "@codemirror/language": "^6.10.8",
+    "@codemirror/lint": "^6.8.4",
+    "@codemirror/search": "^6.5.8",
+    "@codemirror/state": "^6.5.0",
+    "@codemirror/view": "^6.36.1",
+    "@lezer/common": "^1.2.3",
+    "@prometheus-io/codemirror-promql": "^0.301.0"
   },
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-node-resolve": "^16.0.0",
     "@rollup/plugin-terser": "^0.4.4",
-    "@rollup/plugin-typescript": "^11.1.6",
-    "rollup": "^4.18.1",
-    "tslib": "^2.6.3"
+    "@rollup/plugin-typescript": "^12.1.2",
+    "rollup": "^4.29.1",
+    "tslib": "^2.8.1"
   }
 }
